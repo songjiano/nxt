@@ -1,0 +1,13 @@
+.boxId{
+  background: linear-gradient(230deg, #D3D9E8 6%, #F7F8FB 69%) !important;
+}
+
+.topImg{
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 60%;
+  height: 160px;
+  background: url(../img/bonusBg.png);
+  background-size: cover;
+}
